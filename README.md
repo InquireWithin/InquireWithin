@@ -1,1 +1,1 @@
-This is a personal archive of utilities/scripts/mods, alongside misc stuff either I or others made.
+Hello there. This is a collection of mainly scripts and utilities I either wrote or curated. Some are mostly complete fully functioning software and others are in development or unfinished. 
